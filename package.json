@@ -4,7 +4,6 @@
   "description": "Routes for NextJs",
   "main": "src/index.ts",
   "author": "KimiStores",
-  "private": true,
   "type": "module",
   "scripts": {
     "build": "tsc",
