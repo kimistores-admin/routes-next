@@ -7,13 +7,13 @@ The `routes-next` is a wrapper for `nextjs`
 ### RouterLink
 
 ```
-import { RouterLink } from `routes-next`
+import { RouterLink } from 'routes-next'
 ```
 
 ### Hooks
 
 ```
-import { useRouter } from `routes-next`
-import { usePathname } from `routes-next`
-import { useSearchParams } from `routes-next`
+import { useRouter } from 'routes-next'
+import { usePathname } from 'routes-next'
+import { useSearchParams } from 'routes-next'
 ```
