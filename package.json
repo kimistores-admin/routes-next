@@ -1,6 +1,6 @@
 {
   "name": "routes-next",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Routes for NextJs",
   "main": "src/index.ts",
   "author": "KimiStores",
